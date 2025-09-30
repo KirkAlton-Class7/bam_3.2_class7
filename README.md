@@ -85,3 +85,8 @@ Run `git push origin --delete <branch-name>` to delete the remote branch on GitH
 <img src="./images/12_verify_branch_deleted.png" alt="Create New Branch" style="width: 90%">
 
 ---
+### <ins>References</ins>
+References
+Git Cheat Sheet: https://git-scm.com/cheat-sheet
+
+Delete Remote Branch: https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely
